@@ -201,6 +201,7 @@ scale = Vector2(2, 2)
 sprite_frames = SubResource("SpriteFrames_186t8")
 animation = &"Idle"
 autoplay = "Idle"
+flip_h = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("RectangleShape2D_ij6vw")
