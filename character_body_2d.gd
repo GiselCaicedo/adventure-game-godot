@@ -1,7 +1,7 @@
 extends CharacterBody2D
 
-const SPEED = 400.0
-const JUMP_VELOCITY = -700.0
+const SPEED = 100.0
+const JUMP_VELOCITY = -300.0
 
 # --- Nuevas variables para el doble salto ---
 const MAX_JUMPS = 2 # Define la cantidad máxima de saltos (1 = normal, 2 = doble, etc.)

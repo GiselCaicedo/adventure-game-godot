@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Guia 1 Parte 1"
+config/name="Jueguito"
 run/main_scene="uid://befn0i6pq8t2"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
